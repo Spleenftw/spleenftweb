@@ -1,13 +1,13 @@
 
 # SEO
-title: Swiss Jekyll Theme
+title: Spleenftw experiences
 description: A bold typographic theme inspired by Swiss design.
 
 # social
 social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+social_username: spleenftw
+github_repo: spleenftweb # the GitHub repo name for your project
+github_username: spleenftw
 theme_color: black
 
 # Theme
@@ -40,9 +40,6 @@ remote_theme_layouts:
   - category_index
 social_links:
   - twitter
-  - instagram
-  - medium
-  - dribbble
 
 theme_colors:
   - black
