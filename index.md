@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Spleenftw experiences
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+A simple and elegant way to experience a portfolio & website hosted at 100% on github.
