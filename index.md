@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: Spleenftw experiences
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+A simple and elegant experience about hosting at 100% on github a portfolio.
 
 
