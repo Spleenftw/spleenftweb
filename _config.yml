@@ -1,43 +1,34 @@
-
 # SEO
 title: Spleenftw experiences
 description: A bold typographic theme inspired by Swiss design.
-
-# social
 social_link: twitter
 social_username: spleenftw
 github_repo: spleenftweb # the GitHub repo name for your project
 github_username: spleenftw
 theme_color: black
-
-# Theme
-remote_theme: 'internet-de-france/swiss'
-baseurl: '/spleenftweb'
-
-# Defaults
+remote_theme: internet-de-france/swiss
+baseurl: /spleenftweb
 
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: ''
+      type: pages
     values:
-      category_name: ""
-  -
-    scope:
-      path: ""
-      type: "posts"
+      category_name: ''
+  - scope:
+      path: ''
+      type: posts
     values:
-      categories: ""
+      categories: ''
 
-# Stastic UI
-remote_theme_layouts: 
-  - ""
+remote_theme_layouts:
+  - ''
   - default
   - page
   - post
   - home
   - category_index
+
 social_links:
   - twitter
 
@@ -50,5 +41,3 @@ theme_colors:
   - red
   - white
   - yellow
-
-
